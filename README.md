@@ -20,3 +20,9 @@ we have to implement the following conversions
 • %X Prints a number in hexadecimal (base 16) uppercase format.
 
 • %% Prints a percent sign.
+
+# Testers
+
+https://github.com/paulo-santana/ft_printf_tester
+
+https://github.com/Tripouille/printfTester
