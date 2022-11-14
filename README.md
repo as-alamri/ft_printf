@@ -1,7 +1,8 @@
 # ft_printf
-We have to recode the printf() function from libc /n
+We have to recode the printf() function from libc 
 
-we have to implement the following conversions:
+we have to implement the following conversions
+
 • %c Prints a single character.
 • %s Prints a string (as defined by the common C convention).
 • %p The void * pointer argument has to be printed in hexadecimal format.
