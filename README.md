@@ -1,5 +1,5 @@
 # ft_printf
-We have to recode the printf() function from libc
+We have to recode the printf() function from libc /n
 
 we have to implement the following conversions:
 • %c Prints a single character.
